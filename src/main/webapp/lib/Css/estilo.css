@@ -1,0 +1,7 @@
+.search{
+	margin-top : -10%;
+}
+.search::before{
+	content : "\1F50E";
+}
+
