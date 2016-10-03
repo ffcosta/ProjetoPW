@@ -1,7 +1,12 @@
 .search{
 	margin-top : -10%;
 }
-.search::before{
+.search:before{
 	content : "\1F50E";
 }
-
+.container-fluid{
+	padding-top : 0;
+}
+.border{
+	border : solid 1px;
+}
